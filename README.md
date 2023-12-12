@@ -6,7 +6,7 @@ const articles = [
     title: 'Understanding the difference between grid-template and grid-auto',
     content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...',
   },
-
+  // Add more articles as needed
 ];
 
 const HighlightedText = ({ text, highlight }) => {
